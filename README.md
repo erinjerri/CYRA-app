@@ -13,7 +13,7 @@ Create Your Reality Agent - App - v1 prototype
 | Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic |
 | :------------ | :------------------------- | :---------------------------- |
 | - ✅ Evaluated VisionOS CoreML feature | - [ ] Implement PDF generation - PDFKit | - [ ] Configure speech-to-text Whisper: local transcription, create 5s audio script |
-| - [ ] Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | - [ ] Implement ReactJS web app creation with TailwindCSS | - [ ] Use Flask API. Check AVFoundation documentation to send to API |
+| - ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | - [ ] Implement ReactJS web app creation with TailwindCSS | - [ ] Use Flask API. Check AVFoundation documentation to send to API |
 
 | - ✅ Create initial GH Repo | - [ ] Create shared JSON schema for cross-platform compatibility | - [ ] Record audio and send to API for storage |
 
