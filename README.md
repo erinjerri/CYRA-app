@@ -1,11 +1,11 @@
 # CYRA-app
 Create Your Reality Agent - App - v1 prototype
+
 ### installfest
 * Initial prototype with Llama, Oolama. Later version with ChatGPT o3 and Operator.
 * Using iOS with simulator storing task created by user speech input, converted to text (JSON for web app, native iOS eventual macOS and VisionOS app UI with storable text that is saved in Apple Private Cloud via CloudKit). 
 * This is then integrated with Instacart to test out performance abilities using Playwright to see if an AI agent is able to handle storing a log of a task, completing a task and switching to another web application.
 ### To-Do List
-
 
 
 # To-Do List v1 - iOS 
@@ -30,10 +30,25 @@ Create Your Reality Agent - App - v1 prototype
 
 | Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing |
 | :------------ |:-------------------------- | :-----------------------------| :--------|
-- 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2) | 
-- 🔲 Add button to trigger speech recording. |
-- 🔲 Enable CloudKit container - CKRecord |
-- 🔲 Integration Playwright | 
+- 1 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2) | 
+- 2 🔲 Add button to trigger speech recording. |
+- 3 🔲 Enable CloudKit container - CKRecord |
+- 4 🔲 Integration Playwright | 
+- 5 🔲 stuff |
+- 6 🔲 stuff stuff |
+- 7 🔲 stuff stuff |
+- 8 🔲 stuff |
+- 9 stuff | 
+
+- 1 🔲
+- 2 🔲
+- 3 🔲
+- 4 🔲
+- 5 🔲
+- 6 🔲
+- 7 🔲
+- 8 🔲
+- 9 🔲
 
 #### Other UI 
 - 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
