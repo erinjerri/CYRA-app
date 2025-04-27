@@ -26,29 +26,19 @@ Create Your Reality Agent - App - v1 prototype
 - ✅ Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) |
 - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different intergrations already in use for OpenAI to store log of data into productivity app
 
+# Second Try reformatting
+
+
+
 # To-Do List v2 - MacOS and VisionOS - Phase 3
 
-| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing |
-| :------------ |:-------------------------- | :-----------------------------| :--------|
-- 1 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2) | 
-- 2 🔲 Add button to trigger speech recording. |
-- 3 🔲 Enable CloudKit container - CKRecord |
-- 4 🔲 Integration Playwright | 
-- 5 🔲 stuff |
-- 6 🔲 stuff stuff |
-- 7 🔲 stuff stuff |
-- 8 🔲 stuff |
-- 9 stuff | 
-
-- 1 🔲
-- 2 🔲
-- 3 🔲
-- 4 🔲
-- 5 🔲
-- 6 🔲
-- 7 🔲
-- 8 🔲
-- 9 🔲
+| Initial Setup                                                                                                  | Basic Cross-Platform Setup                                      | Configuration and GenAI Magic                                                      | Testing |
+|:---------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------------------|:-------|
+| - 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2)             | - 🔲 Add button to trigger speech recording                    | - 🔲 Enable CloudKit container - CKRecord                                           |        |
+| - 🔲 Integration Playwright                                                                                    | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
+| - 🔲 Stuff stuff                                                                                               | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
+| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
+| - 🔲 Stuff                                                                                                     |                                                              |                                                                                   |        |
 
 #### Other UI 
 - 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
@@ -59,4 +49,4 @@ Validate build
 
 - Benchmarking 
 - [x] Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
-- 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different intergrations already in use for OpenAI to store log of data into productivity app
+- 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different integrations already in use for OpenAI to store log of data into productivity app
