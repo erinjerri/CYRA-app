@@ -33,10 +33,4 @@ Create Your Reality Agent - App - v1 prototype
 |:---------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------------------|:--------------------------|
 | - 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2)             | - 🔲 Add button to trigger speech recording                    | - 🔲 Enable CloudKit container - CKRecord                                           | Validate build and record simulator demo      |
 | - 🔲 Integration Playwright |                                                                                    | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   | - 🔲 Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
-
-#### Other UI 
-- 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
-- 🔲 Execute build of data input, UI creation, storage to run in Simulator | 
-
-- Benchmarking 
-- 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different integrations already in use for OpenAI to store log of data into productivity app
+| - 🔲 Create rest of CalendarKit for logging task times with prettier UI | 🔲 Execute build of data input, UI creation, storage to run in Simulator |  - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different integrations already in use for OpenAI to store log of data into productivity app |
