@@ -18,7 +18,7 @@ Create Your Reality Agent - App - v1 prototype
 | - 🔲 Set up Xcode project with Whisper/ChatGPT 4.1 API integration | | - 🔲 Generate tasks with Llama | |
 | | | - 🔲 Build UITableView in Storyboard (match old wireframe), add button to trigger speech recording | |
 | | | - 🔲 Enable CloudKit container - CKRecord | |
-| | Integration Playwright: | 🔲 Submit request for ask Apple Dev during office hours for entitlements; handwriting recognizer with MNIST; passthrough camera frame | |
+| | Read ChatGPT4.1 (Operator documentation) with Instacart Playwright API  | 🔲 Submit request for ask Apple Dev during office hours for entitlements; handwriting recognizer with MNIST; passthrough camera frame | |
 
 # To-Do List v2 - MacOS and VisionOS - Phase 3
 ### This is when we can get entitlments for VisionOS and if not iOS as an app (if we have time), we create a MacOS version to store data with Cloud Kit for Apple Private Cloud.
