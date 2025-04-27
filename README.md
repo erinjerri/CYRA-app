@@ -10,8 +10,8 @@ Create Your Reality Agent - App - v1 prototype
 
 # To-Do List v1 - iOS 
 
-| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing | Benchmarking |
-| :------------ | :------------------------- | :---------------------------- | :------ | :----------- |
+| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing/Benchmarking |
+| :------------ | :------------------------- | :---------------------------- | :------ |
 | - ✅ Evaluated VisionOS CoreML feature | -🔲  Create rest of CalendarKit for logging task times with prettier UI |
 | [ ] Implement PDF generation - PDFKit | - [ ] Configure speech-to-text Whisper: local transcription, create 5s audio script |
 | - ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | - 🔲 Implement ReactJS web app creation with TailwindCSS |
@@ -36,6 +36,9 @@ Create Your Reality Agent - App - v1 prototype
 | - 🔲 Stuff stuff                                                                                               | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
 | - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
 | - 🔲 Stuff                                                                                                     |                                                              |                                                                                   |        |
+| - 🔲 Stuff stuff                                                                                               | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
+| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
+| - 🔲 Stuff      
 
 #### Other UI 
 - 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
