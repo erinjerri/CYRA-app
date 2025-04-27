@@ -29,10 +29,12 @@ Create Your Reality Agent - App - v1 prototype
 # To-Do List v2 - MacOS and VisionOS - Phase 3
 ### This is when we can get entitlments for VisionOS and if not iOS as an app (if we have time), we create a MacOS version to store data with Cloud Kit for Apple Private Cloud.
 
-| Initial Setup                                                                                                  | Basic Cross-Platform Setup                                      | Configuration and GenAI Magic                                                      | Testing |
-|:---------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------------------|:-------|
-| - 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2)             | - 🔲 Add button to trigger speech recording                    | - 🔲 Enable CloudKit container - CKRecord                                           |        |
-| - 🔲 Integration Playwright                                                                                    | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
+| Initial Setup                                                                                                  | Basic Cross-Platform Setup                                      | Configuration and GenAI Magic                                                      | Testing and Benchmarking |
+|:---------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------------------|:--------------------------|
+| - 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2)             | - 🔲 Add button to trigger speech recording                    | - 🔲 Enable CloudKit container - CKRecord                                           | Validate build 
+- 🔲 Record simulator demo       |
+| - 🔲 Integration Playwright                                                                                    | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   | - 🔲 Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
+       |
 | - 🔲 Stuff stuff                                                                                               | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
 | - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
 | - 🔲 Stuff                                                                                                     |                                                              |                                                                                   |        |
@@ -50,9 +52,5 @@ Create Your Reality Agent - App - v1 prototype
 - 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
 - 🔲 Execute build of data input, UI creation, storage to run in Simulator | 
 
-Validate build 
-- 🔲 Record simulator demo
-
 - Benchmarking 
-- [x] Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
 - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different integrations already in use for OpenAI to store log of data into productivity app
