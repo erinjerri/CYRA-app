@@ -26,11 +26,8 @@ Create Your Reality Agent - App - v1 prototype
 - ✅ Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) |
 - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different intergrations already in use for OpenAI to store log of data into productivity app
 
-# Second Try reformatting
-
-
-
 # To-Do List v2 - MacOS and VisionOS - Phase 3
+### This is when we can get entitlments for VisionOS and if not iOS as an app (if we have time), we create a MacOS version to store data with Cloud Kit for Apple Private Cloud.
 
 | Initial Setup                                                                                                  | Basic Cross-Platform Setup                                      | Configuration and GenAI Magic                                                      | Testing |
 |:---------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------------------|:-------|
