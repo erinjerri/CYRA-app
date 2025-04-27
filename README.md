@@ -10,8 +10,8 @@ Create Your Reality Agent - App - v1 prototype
 
 # To-Do List v1 - iOS 
 
-| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic |
-| :------------ | :------------------------- | :---------------------------- |
+| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing | Benchmarking |
+| :------------ | :------------------------- | :---------------------------- | :------ | :----------- |
 | - ✅ Evaluated VisionOS CoreML feature | -🔲  Create rest of CalendarKit for logging task times with prettier UI |
 | [ ] Implement PDF generation - PDFKit | - [ ] Configure speech-to-text Whisper: local transcription, create 5s audio script |
 | - ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | - 🔲 Implement ReactJS web app creation with TailwindCSS |
@@ -21,28 +21,27 @@ Create Your Reality Agent - App - v1 prototype
 | | | - 🔲 Build UITableView in Storyboard (match old wireframe), add button to trigger speech recording |
 | | | - 🔲 Enable CloudKit container - CKRecord |
 | | Integration Playwright: | 🔲 Submit request for ask Apple Dev during office hours for entitlements; handwriting recognizer with MNIST; passthrough camera frame  |
+| | |
+- Benchmarking 
+- ✅ Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) |
+- 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different intergrations already in use for OpenAI to store log of data into productivity app
 
 # To-Do List v2 - MacOS and VisionOS - Phase 3
 
-| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic |
-| :Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2) | :------------------------- | :---------------------------- |
-
-- 🔲 Implement in VisionOS 
-- 🔲 Setup other integration with Playwright (Instacart) using OpenAI Operator
-  
-  🔲 Generate tasks with ChatGPT4.1
-- 🔲 Build UITableView in Storyboard - make sure it matches old wireframe. Add button to trigger speech recording. 
-- 🔲 - [ ] Enable CloudKit container - CKRecord
-- 🔲 Integration Playwright
+| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing |
+| :------------ |:-------------------------- | :-----------------------------| :--------|
+- 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2) | 
+- 🔲 Add button to trigger speech recording. |
+- 🔲 Enable CloudKit container - CKRecord |
+- 🔲 Integration Playwright | 
 
 #### Other UI 
-- 🔲 Create rest of CalendarKit for logging task times with prettier UI
-- 🔲 Execute build of data input, UI creation, storage to run in Simulator
+- 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
+- 🔲 Execute build of data input, UI creation, storage to run in Simulator | 
 
 Validate build 
 - 🔲 Record simulator demo
 
-
-
-- [x] Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) 
+- Benchmarking 
+- [x] Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
 - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different intergrations already in use for OpenAI to store log of data into productivity app
