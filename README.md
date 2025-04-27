@@ -31,22 +31,8 @@ Create Your Reality Agent - App - v1 prototype
 
 | Initial Setup                                                                                                  | Basic Cross-Platform Setup                                      | Configuration and GenAI Magic                                                      | Testing and Benchmarking |
 |:---------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------------------|:--------------------------|
-| - 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2)             | - 🔲 Add button to trigger speech recording                    | - 🔲 Enable CloudKit container - CKRecord                                           | Validate build 
-- 🔲 Record simulator demo       |
-| - 🔲 Integration Playwright                                                                                    | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   | - 🔲 Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
-       |
-| - 🔲 Stuff stuff                                                                                               | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
-| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
-| - 🔲 Stuff                                                                                                     |                                                              |                                                                                   |        |
-| - 🔲 Stuff stuff                                                                                               | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
-| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
-| - 🔲 Stuff stuff stuff    
-| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
-| - 🔲 Stuff stuff stuff    
-| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
-| - 🔲 Stuff stuff stuff    
-| - 🔲 Stuff stuff stuff stuff stuff
-| - 🔲 Validate build - stuff stuff stuff stuff stuff
+| - 🔲 Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2)             | - 🔲 Add button to trigger speech recording                    | - 🔲 Enable CloudKit container - CKRecord                                           | Validate build and record simulator demo      |
+| - 🔲 Integration Playwright |                                                                                    | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   | - 🔲 Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
 
 #### Other UI 
 - 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
