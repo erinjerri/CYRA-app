@@ -39,6 +39,10 @@ Create Your Reality Agent - App - v1 prototype
 | - 🔲 Stuff stuff                                                                                               | - 🔲 Stuff                                                     | - 🔲 Stuff stuff                                                                   |        |
 | - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
 | - 🔲 Stuff stuff stuff    
+| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
+| - 🔲 Stuff stuff stuff    
+| - 🔲 Stuff                                                                                                     | - 🔲 Stuff                                                     |                                                                                   |        |
+| - 🔲 Stuff stuff stuff    
 
 #### Other UI 
 - 🔲 Create rest of CalendarKit for logging task times with prettier UI | 
