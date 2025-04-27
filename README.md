@@ -8,11 +8,12 @@ Create Your Reality Agent - App - v1 prototype
 
 
 
-# Reformatted To-Do List
+# To-Do List v1 - iOS 
 
 | Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic |
 | :------------ | :------------------------- | :---------------------------- |
-| - ✅ Evaluated VisionOS CoreML feature | - [ ] Implement PDF generation - PDFKit | - [ ] Configure speech-to-text Whisper: local transcription, create 5s audio script |
+| - ✅ Evaluated VisionOS CoreML feature | - [ ] - [ ] Create rest of CalendarKit for logging task times with prettier UI
+| [ ] Implement PDF generation - PDFKit | - [ ] Configure speech-to-text Whisper: local transcription, create 5s audio script |
 | - ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | - [ ] Implement ReactJS web app creation with TailwindCSS |
 | - 🔲 Use Flask API. Check AVFoundation documentation to send to API |
 | - ✅ Create initial GH Repo | - [ ] Create shared JSON schema for cross-platform compatibility | - [ ] Record audio and send to API for storage |
@@ -21,25 +22,15 @@ Create Your Reality Agent - App - v1 prototype
 | | | - [ ] Enable CloudKit container - CKRecord |
 | | Integration Playwright: | [ ] Submit request for ask Apple Dev during office hours for entitlements; handwriting recognizer with MNIST; passthrough camera frame  |
 
+# To-Do List v2 - MacOS and VisionOS - Phase 3
 
+| Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic |
+| :Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2) | :------------------------- | :---------------------------- |
 
-#### Initial Setup 
-- [x] Evaluated VisionOS CoreML feature I need to ask an Apple Developer during office hours to provide entitlements (get handwriting recognizer to work with MNIST dataset and get entitlements for passthrough camera frames)
-- [x] Installfest Python latest, Ollama, Llama, Flask, transformers and other Python Frameworks plus Torch, Playwright (Instacart API)
-- [ ] Create initial GH Repo
-- [ ] Set up Xcode project with Whisper/ChatGPT 4.1 API integration
-
-### Basic cross-platform setup
-
-- [ ] Implement PDF generation - PDFKit
-- [ ] Implement ReactJS web app creation with TailwindCSS
-- [ ] Create shared JSON schema for cross-platform compatibility
-
-#### Configuration and GenAI Magic
-- [ ] Configure speech-to-text Whisper - local transcription, create python script for 5sec audio. 
-- [ ] Use Flask API. Check AVFoundation still current documentation to send to API. 
-- [ ] Record audio and send to API for storage.
-- [ ] Generate tasks with Llama
+- [ ] Implement in VisionOS 
+- [ ] Setup other integration with Playwright (Instacart) using OpenAI Operator
+  
+- [ ] Generate tasks with ChatGPT4.1
 - [ ] Build UITableView in Storyboard - make sure it matches old wireframe. Add button to trigger speech recording. 
 - [ ] - [ ] Enable CloudKit container - CKRecord
 - [ ] Integration Playwright
@@ -51,9 +42,7 @@ Create Your Reality Agent - App - v1 prototype
 Validate build 
 - [ ] Record simulator demo
 
-Phase 3
-- [ ] Implement in VisionOS 
-- [ ] Setup other integration with Playwright (Instacart) using OpenAI Operator
+
 
 - [x] Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) 
 - [ ] Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different intergrations already in use for OpenAI to store log of data into productivity app
