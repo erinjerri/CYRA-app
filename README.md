@@ -1,8 +1,8 @@
 # CYRA-app
 Create Your Reality Agent - App - v1 prototype
 
-### installfest
-* Initial prototype with Llama, Oolama. Later version with ChatGPT o3 and Operator.
+### Overview
+* Initial prototype with Llama, Oolama. Later version with ChatGPT o3 and Operator. Built for UC Berkeley LLM Agents (Advanced) course, after a hackathon last year (VisionDevCamp winning Best Productivity app for app concept) and undergoing Women in Big Data solopreneurship program. This project actually tries to build a real prototype with real data though.
 * Using iOS with simulator storing task created by user speech input, converted to text (JSON for web app, native iOS eventual macOS and VisionOS app UI with storable text that is saved in Apple Private Cloud via CloudKit). 
 * This is then integrated with Instacart to test out performance abilities using Playwright to see if an AI agent is able to handle storing a log of a task, completing a task and switching to another web application.
 ### To-Do List
