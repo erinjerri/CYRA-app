@@ -13,11 +13,11 @@ Create Your Reality Agent - App - v1 prototype
 | - 1 ✅ Evaluated VisionOS CoreML feature |  - 🔲 Create basic UI structure with CalendarKit for logging task times with prettier UI | | - ✅ Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) |
 | - 2 ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API)  | 🔲 Check if this would work in MacOS and visionOS - research documentation | 🔲 Configure speech-to-text Whisper: local transcription, create 5s audio script |🔲 Execute build of data input, UI creation, storage to run in Simulator | 
 | - 🔲 Configure Langchain, Langgraph, langsmith, LlamaIndex (DeepEval), honeyhive, tavily API, vellum optional.  | - 🔲 test | | - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different integrations already in use for OpenAI to store log of data into productivity app | 🔲 stuff | - 🔲 Implement ReactJS web app creation with TailwindCSS | [ ] Implement PDF generation - PDFKit | |
-| - 3 🔲 Use Flask API. Check AVFoundation documentation to send to API | | | |
-| - ✅ Create initial GH Repo | - 🔲 Create shared JSON schema for cross-platform compatibility | - 🔲 Record audio and send to API for storage | |
-| - 4 🔲 Set up Xcode project with Whisper/ChatGPT 4.1 API integration | | - 🔲 Generate tasks with Llama | |
-| | | 🔲 Build UITableView in Storyboard (match old wireframe), add button to trigger speech recording | |
-| | | 🔲 Enable CloudKit container - CKRecord | |
+| - 3 🔲 Use Flask API. Check AVFoundation documentation to send to API | 2 🔲    | 3 🔲 Record audio and send to API for storage | |
+| - ✅ Create initial GH Repo | - 🔲 Create shared JSON schema for cross-platform compatibility | - 4 🔲 stuff  | 🔲 4 | 🔲 5 |
+| - 4 🔲 Set up Xcode project with Whisper/ChatGPT 4.1 API integration | | - 🔲 Generate tasks with Llama | stuff | stuff
+| | | 🔲 Build UITableView in Storyboard (match old wireframe), add button to trigger speech recording | stuff | stuff 
+| | | 🔲 Enable CloudKit container - CKRecord | stuff| stuff
 | | 🔲 Read ChatGPT4.1 (Operator documentation) with Instacart Playwright API  | 🔲 Submit request for ask Apple Dev during office hours for entitlements; handwriting recognizer with MNIST; passthrough camera frame | |
 
 # To-Do List v2 - MacOS and VisionOS - Phase 3
