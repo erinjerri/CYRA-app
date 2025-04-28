@@ -8,6 +8,63 @@ Create Your Reality Agent - App - v1 prototype
 
 
 # Reordered To-Do List
+### To-Do List
+
+#### Initial Setup (Python-Focused)
+| Task                                                                               | Status   |
+|-----------------------------------------------------------------------------------|----------|
+| Installfest: Python, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | ✅ Done   |
+| Create initial GitHub repository                                                  | ✅ Done   |
+| Configure AI tools:                                                               | 🔲 Pending |
+| - Set up Langchain and Langgraph                                                  | 🔲 Pending |
+| - Set up LlamaIndex with DeepEval                                                 | 🔲 Pending |
+| - Configure Langsmith, Honeyhive, Tavily API, Vellum (optional)                   | 🔲 Pending |
+
+---
+
+#### Configuration and GenAI Magic (Python-Focused)
+| Task                                                                               | Status   |
+|-----------------------------------------------------------------------------------|----------|
+| Configure Whisper for local speech-to-text (5s audio script)                      | 🔲 Pending |
+| Create Flask API endpoint for audio data processing                               | 🔲 Pending |
+| Generate tasks with Llama                                                         | 🔲 Pending |
+| Instacart integration:                                                            | 🔲 Pending |
+| - Set up Playwright for Instacart API                                             | 🔲 Pending |
+| - Test ChatGPT Operator compatibility                                             | 🔲 Pending |
+
+---
+
+#### Basic Cross-Platform Setup (UI and Shared Infrastructure)
+| Task                                                                               | Status   |
+|-----------------------------------------------------------------------------------|----------|
+| Create basic PDF layout in Sketch (translate to SVG/JSON, pending Storyboard)     | ✅ Done   |
+| Build UITableView in Storyboard (match wireframe), add button for speech recording | 🔲 Pending |
+| Create shared JSON schema for cross-platform compatibility                        | 🔲 Pending |
+| Enable CloudKit container with CKRecord                                           | 🔲 Pending |
+| Configure AVFoundation for audio recording and API integration                    | 🔲 Pending |
+
+---
+
+#### iOS-Specific Testing
+| Task                                                                               | Status   |
+|-----------------------------------------------------------------------------------|----------|
+| Evaluate VisionOS CoreML features (MNIST, passthrough camera)                     | ✅ Done   |
+| Test VisionOS tasks with Flask API integration                                    | 🔲 Pending |
+| Build and test data input, UI, and storage in Simulator                           | 🔲 Pending |
+| Test macOS compatibility for VisionOS (e.g., Catalyst or shared codebase)        | 🔲 Pending |
+
+---
+
+#### Benchmarking and Final Iterations
+| Task                                                                               | Status   |
+|-----------------------------------------------------------------------------------|----------|
+| Research benchmark options: OSWorld, DeepEval with LlamaIndex                     | ✅ Done   |
+| Run benchmarks and iteratively test across web, macOS, and iOS                    | 🔲 Pending |
+| Research additional papers to refine benchmarking (e.g., new metrics)            | 🔲 Pending |
+
+
+
+
 
 ### To-Do List
 
@@ -62,7 +119,7 @@ Create Your Reality Agent - App - v1 prototype
 
 
 
-### To-Do List
+### Old To-Do List
 
 # Updated To-Do List - v1 - iOS (Phase 1) and MacOS (Phase 2)
 | Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing/Benchmarking |
