@@ -11,11 +11,11 @@ Create Your Reality Agent - App - v1 prototype
 | Initial Setup | Basic Cross-Platform Setup | Configuration and GenAI Magic | Testing/Benchmarking |
 | :------------ | :------------------------- | :---------------------------- | :------------------ |
 | - 1 ✅ Evaluated VisionOS CoreML feature |  - 🔲 create basic UI structure with CalendarKit for logging task times with prettier UI | | - ✅ Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) |
-| - 2 Configure Langchain, Langgraph, langsmith, LlamaIndex (DeepEval), honeyhive, tavily API, vellum optional.  | - [ ] Configure speech-to-text Whisper: local transcription, create 5s audio script | | - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different integrations already in use for OpenAI to store log of data into productivity app |
-| - ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | - 🔲 Implement ReactJS web app creation with TailwindCSS | [ ] Implement PDF generation - PDFKit | |
-| - 🔲 Use Flask API. Check AVFoundation documentation to send to API | | | |
+| - 2 ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API)  
+| - 🔲 Configure Langchain, Langgraph, langsmith, LlamaIndex (DeepEval), honeyhive, tavily API, vellum optional.  | - [ ] Configure speech-to-text Whisper: local transcription, create 5s audio script | | - 🔲 Run Benchmark analysis for multiple apps - creation of multiple to-do list items and integration across 20 different integrations already in use for OpenAI to store log of data into productivity app | | - 🔲 Implement ReactJS web app creation with TailwindCSS | [ ] Implement PDF generation - PDFKit | |
+| - 3 🔲 Use Flask API. Check AVFoundation documentation to send to API | | | |
 | - ✅ Create initial GH Repo | - 🔲 Create shared JSON schema for cross-platform compatibility | - 🔲 Record audio and send to API for storage | |
-| - 🔲 Set up Xcode project with Whisper/ChatGPT 4.1 API integration | | - 🔲 Generate tasks with Llama | |
+| - 4 🔲 Set up Xcode project with Whisper/ChatGPT 4.1 API integration | | - 🔲 Generate tasks with Llama | |
 | | | - 🔲 Build UITableView in Storyboard (match old wireframe), add button to trigger speech recording | |
 | | | - 🔲 Enable CloudKit container - CKRecord | |
 | | Read ChatGPT4.1 (Operator documentation) with Instacart Playwright API  | 🔲 Submit request for ask Apple Dev during office hours for entitlements; handwriting recognizer with MNIST; passthrough camera frame | |
