@@ -6,6 +6,62 @@ Create Your Reality Agent - App - v1 prototype
 * Using iOS with simulator storing task created by user speech input, converted to text (JSON for web app, native iOS eventual macOS and VisionOS app UI with storable text that is saved in Apple Private Cloud via CloudKit). 
 * This is then integrated with Instacart to test out performance abilities using Playwright to see if an AI agent is able to handle storing a log of a task, completing a task and switching to another web application.
 
+
+# Reordered To-Do List
+
+### To-Do List
+
+#### Initial Setup
+| #   | Task                                                                                   | Status |
+|-----|---------------------------------------------------------------------------------------|--------|
+| 1   | ✅ Installfest Python latest, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | Done   |
+| 2   | ✅ Create initial GitHub repository                                                   | Done   |
+| 3   | 🔲 Configure Langchain, Langgraph, Langsmith, LlamaIndex (DeepEval), Honeyhive, Tavily API, Vellum (optional) | Pending |
+| 4   | ✅ Evaluated VisionOS CoreML feature - Ask Apple Developer for entitlements: MNIST handwriting recognizer and passthrough camera frames | Done   |
+
+---
+
+#### Configuration and GenAI Magic
+| #   | Task                                                                                   | Status |
+|-----|---------------------------------------------------------------------------------------|--------|
+| 1   | 🔲 Configure speech-to-text Whisper: local transcription, create Python script for 5s audio | Pending |
+| 2   | 🔲 Use Flask API - Check AVFoundation documentation to send to API                    | Pending |
+| 3   | 🔲 Record audio and send to API for storage                                           | Pending |
+| 4   | 🔲 Generate tasks with Llama                                                         | Pending |
+| 5   | 🔲 Instacart integration - Test Playwright API and ChatGPT Operator compatibility     | Pending |
+
+---
+
+#### Basic Cross-Platform Setup
+| #   | Task                                                                                   | Status |
+|-----|---------------------------------------------------------------------------------------|--------|
+| 1   | ✅ Create basic PDF layout in Sketch (translate to SVG/JSON, and later Storyboard in Xcode) | Done   |
+| 2   | 🔲 Build UITableView in Storyboard (match wireframe), add button to trigger speech recording | Pending |
+| 3   | 🔲 Create shared JSON schema for cross-platform compatibility                         | Pending |
+| 4   | 🔲 Enable CloudKit container - CKRecord                                               | Pending |
+
+---
+
+#### iOS-Specific Testing
+| #   | Task                                                                                   | Status |
+|-----|---------------------------------------------------------------------------------------|--------|
+| 1   | ✅ Evaluate VisionOS CoreML features and validate configurations                      | Done   |
+| 2   | 🔲 Test VisionOS tasks, validate Flask API integration                                | Pending |
+| 3   | 🔲 Execute build of data input, UI creation, and storage in Simulator                 | Pending |
+| 4   | 🔲 Test MacOS compatibility for VisionOS                                              | Pending |
+
+---
+
+#### Benchmarking and Final Iterations
+| #   | Task                                                                                   | Status |
+|-----|---------------------------------------------------------------------------------------|--------|
+| 1   | ✅ Research Benchmark options: OSWorld and DeepEval with LlamaIndex                   | Done   |
+| 2   | 🔲 Run Benchmark analysis across apps, generating to-do list items                   | Pending |
+| 3   | 🔲 Iteratively test web, MacOS, and iOS configurations                                | Pending |
+| 4   | 🔲 Research additional papers for benchmarking refinement                             | Pending |
+
+
+
 ### To-Do List
 
 # Updated To-Do List - v1 - iOS (Phase 1) and MacOS (Phase 2)
