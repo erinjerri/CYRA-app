@@ -141,7 +141,7 @@ Create Your Reality Agent - App - v1 prototype
 | - 🔲 3 See what works for VisionOS with CalendarKit and other SwiftUI components and what has to be uniquely customized | 🔲 Check if this would be compatible on MacOS |  - 🔲 test computer vision capture with CoreML on VisionOS |
 
 # Overview Installation Outline Overview - 5-7-25
-                                 
+## This is a high level overview summary to-do list.            
 | Completion Status and Task                 | Notes                               |
 |:-------------------------------------------|:--------------------------------------------------------------|
 | -🔲 Configure tool 
