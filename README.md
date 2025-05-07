@@ -117,8 +117,6 @@ Create Your Reality Agent - App - v1 prototype
 | 3   | 🔲 Iteratively test web, MacOS, and iOS configurations                                | Pending |
 | 4   | 🔲 Research additional papers for benchmarking refinement                             | Pending |
 
-
-
 ### Old To-Do List
 
 # Updated To-Do List - v1 - iOS (Phase 1) and MacOS (Phase 2)
@@ -141,3 +139,22 @@ Create Your Reality Agent - App - v1 prototype
 | - 🔲 1  Check documentation for cross-platform setup and install VisionOS3 (currently on VisionOS2)             | - 🔲 Add button to trigger speech recording                    | - 🔲 Test that data renders in CloudKit on VisionOS                                        | Validate build and record simulator demo      |
 | - 🔲 2 Integration Playwright |                                                                                    | - 🔲 Run in simulator                                                     | - 🔲 Stuff stuff                                                                   | - 🔲 Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) | 
 | - 🔲 3 See what works for VisionOS with CalendarKit and other SwiftUI components and what has to be uniquely customized | 🔲 Check if this would be compatible on MacOS |  - 🔲 test computer vision capture with CoreML on VisionOS |
+
+# Overview Installation Outline Overview - 5-7-25
+                                 
+| Initial Setup | Completion Status and Task                                                                                              | Notes                               |
+|:---------------------------------------------------------------------------------------------------------------:--------------------------------------------------------------| 
+| -🔲 Configure tool 
+| -🔲 Define Agents
+| -🔲 Voice Workflow and Pipeline
+| -🔲 Building Real Time Voice Application
+| -🔲 Create UI
+| -🔲 Verify/check data into UI is correctly transcribed (what you said, what you wrote)
+| -🔲 Store data into Apple Private Cloud
+| -🔲 Configuration Under the Hood
+| -🔲 LangChain
+| -🔲 LangGraph
+| -🔲 Llama Index - Chunking
+| -🔲 Computer Use Agent Comparison
+| -🔲 Upload screenshots of recording Vision Pro workflow 
+| -🔲 Authorize auth0 check-out (configure)
