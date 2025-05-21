@@ -16,7 +16,7 @@ Create Your Reality Agent - App - v1 prototype
 | Installfest: Python, Ollama, Llama, Flask, transformers, Torch, Playwright (Instacart API) | ✅ Done   |
 | Create initial GitHub repository                                                  | ✅ Done   |
 | Configure AI tools:                                                               | 🔲 Pending |
-| - Set up Langchain and Langgraph                                                  | 🔲 Pending |
+| - Set up Langchain and Langgraph                                                  | ✅ Pending |
 | - Set up LlamaIndex with DeepEval                                                 | 🔲 Pending |
 | - Configure Langsmith, Honeyhive, Tavily API, Vellum (optional)                   | 🔲 Pending |
 
